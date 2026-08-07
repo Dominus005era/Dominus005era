@@ -5,8 +5,6 @@
     <img src="banner.svg" width="100%" alt="Rahul Kushwaha Header Banner" />
   </a>
 
-  <br /><br />
-
   <p>
     <em>"Building technology that understands how people learn—not just how computers think."</em>
   </p>
