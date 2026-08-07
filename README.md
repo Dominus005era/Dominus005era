@@ -3,24 +3,6 @@
 
   <br />
 
-  <a href="https://dominus005era.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-dominus005era.github.io%2FPortfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0b0f19" alt="Portfolio Live" />
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-kushwaha-7698b3368" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-Rahul_Kushwaha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f19" alt="LinkedIn" />
-  </a>
-  <a href="mailto:r.a.kushwaha005@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-r.a.kushwaha005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f19" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/tULNEGtHUu/" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-tULNEGtHUu-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b0f19" alt="LeetCode" />
-  </a>
-  <a href="https://www.instagram.com/its_rahul_eon?igsh=MXZ1cWFzdDBnazYwdA==" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-@its__rahul__eon-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0f19" alt="Instagram" />
-  </a>
-
-  <br /><br />
-
   <h1>⚡ RAHUL KUSHWAHA</h1>
   <h3>Independent AI Developer & EdTech Systems Researcher</h3>
 
@@ -32,12 +14,37 @@
     <em>"Building technology that understands how people learn—not just how computers think."</em>
   </p>
 
-  <a href="https://komarev.com/ghpvc/?username=Dominus005era&label=PROFILE+VIEWS&color=00F7FF&style=flat-square">
-    <img src="https://komarev.com/ghpvc/?username=Dominus005era&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Dominus005era?tab=followers">
-    <img src="https://img.shields.io/github/followers/Dominus005era?label=FOLLOWERS&style=flat-square&color=00ffaa" alt="Followers" />
-  </a>
+  <p>
+    <a href="https://komarev.com/ghpvc/?username=Dominus005era&label=PROFILE+VIEWS&color=00F7FF&style=flat-square">
+      <img src="https://komarev.com/ghpvc/?username=Dominus005era&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" alt="Profile Views" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Dominus005era?tab=followers">
+      <img src="https://img.shields.io/github/followers/Dominus005era?label=FOLLOWERS&style=flat-square&color=00ffaa" alt="Followers" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://dominus005era.github.io/Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Live_Website-00F7FF?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/rahul-kushwaha-7698b3368" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Rahul_Kushwaha-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:r.a.kushwaha005@gmail.com">
+      <img src="https://img.shields.io/badge/Email-r.a.kushwaha005%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/u/tULNEGtHUu/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-tULNEGtHUu-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    &nbsp;
+    <a href="https://www.instagram.com/its_rahul_eon?igsh=MXZ1cWFzdDBnazYwdA==" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-@its_rahul_eon-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 
 </div>
 
@@ -197,7 +204,7 @@ graph LR
 <div align="center">
   <br />
   <a href="https://dominus005era.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_FULL_PORTFOLIO-dominus005era.github.io%2FPortfolio-00F7FF?style=for-the-badge&logoColor=000" alt="Explore Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_FULL_PORTFOLIO-dominus005era.github.io%2FPortfolio-00F7FF?style=flat-square&logoColor=000" alt="Explore Portfolio" />
   </a>
   <br /><br />
 </div>
