@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="100%" height="230">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="45%" stop-color="#161233" />
+      <stop offset="100%" stop-color="#0a192f" />
+    </linearGradient>
+
+    <!-- Title Text Gradient -->
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f7ff" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#00ffaa" />
+    </linearGradient>
+
+    <!-- Glow Effect Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 900;
+      font-size: 52px;
+      letter-spacing: 6px;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 700;
+      font-size: 17px;
+      letter-spacing: 3px;
+      fill: #cbd5e1;
+    }
+    .tag {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace;
+      font-size: 12px;
+      font-weight: 600;
+      fill: #00f7ff;
+    }
+  </style>
+
+  <!-- Background Card -->
+  <rect width="900" height="230" rx="16" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="2" />
+
+  <!-- Aurora Glowing Orbs in Background -->
+  <circle cx="150" cy="50" r="120" fill="#00f7ff" opacity="0.14" filter="url(#glow)" />
+  <circle cx="750" cy="180" r="140" fill="#a855f7" opacity="0.16" filter="url(#glow)" />
+  <circle cx="450" cy="115" r="100" fill="#00ffaa" opacity="0.10" filter="url(#glow)" />
+
+  <!-- Abstract Vector Wave Lines -->
+  <path d="M 0 160 Q 225 110, 450 160 T 900 160 L 900 230 L 0 230 Z" fill="#00f7ff" opacity="0.05" />
+  <path d="M 0 180 Q 225 140, 450 180 T 900 180 L 900 230 L 0 230 Z" fill="#a855f7" opacity="0.07" />
+
+  <!-- Main Title -->
+  <text x="50%" y="92" text-anchor="middle" class="title" fill="url(#titleGrad)">RAHUL KUSHWAHA</text>
+
+  <!-- Decorative Accent Divider Line -->
+  <line x1="220" y1="116" x2="680" y2="116" stroke="url(#titleGrad)" stroke-width="2.5" stroke-linecap="round" opacity="0.85" />
+
+  <!-- Subtitle -->
+  <text x="50%" y="148" text-anchor="middle" class="subtitle">INDEPENDENT AI DEVELOPER &amp; EDTECH RESEARCHER</text>
+
+  <!-- Tech Tags Row inside SVG -->
+  <g transform="translate(180, 180)">
+    <rect x="0" y="0" width="150" height="26" rx="13" fill="#0f172a" stroke="#00f7ff" stroke-opacity="0.5" />
+    <text x="75" y="17" text-anchor="middle" class="tag">Human-Centered AI</text>
+
+    <rect x="165" y="0" width="160" height="26" rx="13" fill="#0f172a" stroke="#a855f7" stroke-opacity="0.5" />
+    <text x="245" y="17" text-anchor="middle" class="tag" fill="#a855f7">Cognitive Physiology</text>
+
+    <rect x="340" y="0" width="190" height="26" rx="13" fill="#0f172a" stroke="#00ffaa" stroke-opacity="0.5" />
+    <text x="435" y="17" text-anchor="middle" class="tag" fill="#00ffaa">Socratic AI Guardrails</text>
+  </g>
+</svg>

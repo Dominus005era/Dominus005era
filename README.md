@@ -1,15 +1,11 @@
-<!-- 🚀 ENHANCED CYBERNETIC AURORA HEADER BANNER -->
+<!-- 🚀 ENHANCED CYBERNETIC VECTOR HEADER BANNER -->
 <div align="center">
 
   <a href="https://dominus005era.github.io/Portfolio/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:a855f7,100:00ffaa&height=230&section=header&text=RAHUL%20KUSHWAHA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Independent%20AI%20Developer%20%26%20EdTech%20Systems%20Researcher&descSize=20&descAlignY=62&descAlign=50" width="100%" alt="Rahul Kushwaha Header" />
+    <img src="banner.svg" width="100%" alt="Rahul Kushwaha Header Banner" />
   </a>
 
-  <br />
-
-  <p>
-    <code>Human-Centered AI</code> • <code>Cognitive Physiology</code> • <code>Socratic Prompt Guardrails</code> • <code>React 19 & Mobile Engines</code>
-  </p>
+  <br /><br />
 
   <p>
     <em>"Building technology that understands how people learn—not just how computers think."</em>
